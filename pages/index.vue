@@ -3,7 +3,7 @@
         <MainSection title="Home">
 
             <Head>
-                <Title>Home / Twitter</Title>
+                <Title>Home / Dritter</Title>
             </Head>
 
 
